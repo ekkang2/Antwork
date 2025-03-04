@@ -21,8 +21,6 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 
 ### 📍 칸반보드 형태의 프로젝트 관리 기능
 
-![6.-ezgif.com-speed.gif](attachment:53239d73-539d-4bc8-bcd6-9e6c5ca74375:6.-ezgif.com-speed.gif)
-
 1. **프로젝트 추가**
     - 프로젝트 추가 후 카테고리 메뉴 목록에 추가될 수 있도록 구현
     - 로그인한 사용자의 토큰에 회사 요금제 타입을 실어서 무료/유료 회원에 따라 맞는 서비스를 제공할 수 있도록 구현
@@ -43,13 +41,7 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 
 - AWS EC2와 NGINX를 활용하여 프론트엔드 서버 배포
 
- **📄 페이지** </br>
-
-<img src="https://private-user-images.githubusercontent.com/174754200/412234175-53456f8f-f65a-4478-9b28-69273bfa7213.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAzODIxOTksIm5iZiI6MTc0MDM4MTg5OSwicGF0aCI6Ii8xNzQ3NTQyMDAvNDEyMjM0MTc1LTUzNDU2ZjhmLWY2NWEtNDQ3OC05YjI4LTY5MjczYmZhNzIxMy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyNFQwNzI0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MWMwZWQzZDcxZDA2MmEwYTczNDkwNTdkMWJkMTgxMmMxODBjYjU5MjNmMGQyMTE4NTljMzIyZWRhZDk2Yjg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3yWnp5uv3LuuHgvDxs4sK5kQ6GRiQdqFpq-dWzMqtY">
-
- **🙋‍♂️ 문의하기** </br>
-<img src = "https://github.com/user-attachments/assets/cd103be1-2cee-40b7-b1a9-8361fc475d7d">
-
+---
 ## 🎥 기능 시연
 [시연 영상 바로가기](https://www.youtube.com/watch?v=BTOL7Ycmewo)
 
@@ -185,24 +177,17 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 
 ## 🤝 질문 및 피드백
 - 강은경 : rkddmsrud27@gmail.com
-- **GitHub Issues**: [프로젝트 관련 이슈 보고](https://github.com/ekkang2/Antwork)
 
 ---
 
 ## 💎 배웠던 점
 1. **새로운 기술 도입과 적응**  
    - React를 처음 사용하며 컴포넌트 기반 개발의 이점을 이해하고, 상태 관리와 라이프사이클에 대한 개념을 익혔습니다.
-   - JWT 인증 및 상태 관리, 토큰 보안 저장 방식(Zustand 사용)을 통해 안전하고 효율적인 인증 시스템 구축 경험을 쌓았습니다.
 2. **협업 효율성 증대**  
-   - 실시간 채팅, 알림, 파일 공유 기능을 구현하며, 팀원 간의 협업 생산성을 높이는 방법을 배웠습니다.
-   - WebSocket과 Redis를 활용해 실시간 데이터를 처리하는 방법과 관련 최적화 기술을 익혔습니다.
-3. **효율적인 데이터 관리와 확장성**  
-   - MongoDB와 Kafka를 연동해 대규모 데이터를 효과적으로 처리하고 로그를 관리하는 기술을 경험했습니다.
-   - 대규모 사용자와 데이터를 처리할 수 있도록 확장 가능한 시스템 설계의 중요성을 깨달았습니다.
-3. **DevOps 기술 활용**
-   - GitHub Actions를 통해 CI/CD 파이프라인을 자동화하며 배포 프로세스를 단순화했습니다.
+   - 실시간 프로젝트 기능을 구현하며, 팀원 간의 협업 생산성을 높이는 방법을 배웠습니다.
+   - WebSocket를 활용해 실시간 데이터를 처리하는 방법과 관련 최적화 기술을 익혔습니다.
 4. **팀워크와 협업의 중요성**
-   - 역할을 명확히 분배하고 팀원들과의 소통을 통해 프로젝트를 효율적으로 진행하는 방법을 배웠습니다.
+   - 팀원들과의 소통을 통해 프로젝트를 효율적으로 진행하는 방법을 배웠습니다.
    - Notion과 Google Sheets를 사용하여 일정과 작업을 체계적으로 관리하며 협업 도구의 중요성을 실감했습니다.
 ---
 
